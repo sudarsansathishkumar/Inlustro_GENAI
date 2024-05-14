@@ -1,8 +1,20 @@
-**This repository contains the code and resources for a deep learning project using Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTMs) for cancer detection.**
+# Text Classification for Biomedical Publications with CNN and LSTM 📚🔬
+
+**Overview:**
+
+This project is dedicated to classifying biomedical text publications into specific cancer types using state-of-the-art deep learning techniques. By leveraging Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks, our aim is to facilitate cancer research and enhance clinical decision-making processes in oncology.
+
+**Problem Statement:**
+
+Biomedical research generates a vast amount of textual data, including research articles, clinical reports, and scholarly publications, which contain valuable insights into various aspects of cancer biology, treatment, and management. However, the sheer volume and complexity of this data make it challenging for researchers and clinicians to efficiently extract relevant information and identify trends or patterns.
+
+Traditional manual methods of categorizing and analyzing biomedical text publications are time-consuming, labor-intensive, and prone to errors. Moreover, with the exponential growth of research literature in the field of oncology, there is an urgent need for automated solutions that can accurately classify and organize these publications based on specific cancer types.
+
+Therefore, the problem statement revolves around developing a robust and scalable deep learning-based classification system capable of automatically categorizing biomedical text publications into relevant cancer types. The system should be able to process large volumes of textual data efficiently, while also providing accurate and interpretable classification results.
 
 **Project Goals:**
 
-Develop a deep learning model for cancer detection using medical images and potentially patient medical history data.
+Develop a deep learning model for cancer detection using potentially patient medical history data.
 Improve diagnostic accuracy and enable earlier cancer detection.
 Reduce reliance on traditional methods and potentially pave the way for personalized medicine.
 
